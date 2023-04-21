@@ -7,9 +7,11 @@ One thing that was done particularly well in this code is the use of a map to st
 # Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 One area where the code could be enhanced is error handling. For example, what happens if the input file is not found or is formatted incorrectly? Adding appropriate error handling could make the code more robust and secure.
 
-#Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
+# Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 The most challenging part of this code may have been creating the frequency histogram for option 3. However, the use of a nested loop to print out the histogram was a clever solution.
 
-#What skills from this project will be particularly transferable to other projects or course work?
+# What skills from this project will be particularly transferable to other projects or course work?
 One skill from this project that could be transferable to other projects is the use of containers such as maps and vectors to store and manipulate data. Additionally, the use of loops and conditional statements for control flow is a fundamental programming skill that will be useful in many other projects.
 
+# How did you make this program maintainable, readable, and adaptable?
+To make this program more maintainable, readable, and adaptable, the code could be broken down into smaller functions with clear responsibilities. Additionally, comments and documentation could be added to explain the purpose and functionality of different parts of the code.
